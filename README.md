@@ -91,7 +91,8 @@ Step 20
 
 <img width="427" height="326" alt="Снимок экрана 2026-09-12 в 23 20 37" src="https://github.com/user-attachments/assets/0a7f58fa-ade1-46f9-ba2e-aead130c4881" />
 
-
+Step 21
+ https://nurzhigittt.github.io/Web-Tech/
 
 
 
