@@ -10,28 +10,7 @@
 
 The main objective of this assignment was to learn the basics of HTML and CSS and create a simple personal webpage.
 
-During this assignment, I practiced:
 
-* Basic HTML structure
-* Headings and paragraphs
-* Ordered and unordered lists
-* Images and links
-* Buttons
-* Tables
-* Emojis
-* HTML forms
-* Inline, internal, and external CSS
-* CSS selectors
-* Classes and IDs
-* Favicons
-* Div elements
-* CSS box model
-* CSS positioning
-* CSS sizing units
-* Float and clear
-* Publishing a website using GitHub Pages
-
----
 
 # Part 1 — Introduction to HTML
 
