@@ -1,0 +1,75 @@
+body{
+    margin: 30px;
+}
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+#main-heading{
+    color: darkblue;
+    font-weight: lighter;
+}
+.header{
+    background-color: rgb(215, 77, 30);
+    padding: 20px;
+}
+.main{
+    background-color: rgb(220, 130, 21);
+    padding: 30px;
+}
+.footer{
+    background-color: rgb(216, 209, 9);
+    padding: 40px;
+}
+.box{
+    border:3px solid black ;
+    margin: 5px;
+    padding: 5px;
+}
+.static-box{
+    position: static;
+    background-color: aqua;
+}
+.relative-box{
+    position: relative;
+    left: 30px;
+    background-color: lightblue;
+}
+.absolute-box{
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    background-color: lightcyan;
+}
+.my-image{
+    width: 25%;
+}
+.size-h2{
+    font-size: 2rem;
+
+}
+.p{
+    font-size: 1.2em;
+}
+.left-box{
+    float: left;
+    background-color: lightslategray;
+    padding: 20px;
+    width: 30%;
+
+}
+.right-box{
+    float: right;
+    background-color: lightseagreen;
+    padding: 20px;
+    width: 30%;
+
+}
+.clear-box{
+    clear: both;
+    padding: 20px;
+}
