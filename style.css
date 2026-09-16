@@ -14,15 +14,15 @@ p{
     font-weight: lighter;
 }
 .header{
-    background-color: rgb(215, 77, 30);
+    background-color: rgb(76, 226, 81);
     padding: 20px;
 }
 .main{
-    background-color: rgb(220, 130, 21);
+    background-color: rgb(118, 231, 112);
     padding: 30px;
 }
 .footer{
-    background-color: rgb(216, 209, 9);
+    background-color: rgb(73, 217, 145);
     padding: 40px;
 }
 .box{
@@ -41,8 +41,8 @@ p{
 }
 .absolute-box{
     position: absolute;
-    top: 10px;
-    right: 30px;
+    bottom: 5x;
+    right: 5px;
     background-color: lightcyan;
 }
 .my-image{
