@@ -41,7 +41,7 @@ p{
 }
 .absolute-box{
     position: absolute;
-    bottom: 5x;
+    bottom: 5px;
     right: 5px;
     background-color: lightcyan;
 }
